@@ -47,7 +47,7 @@
     <!-- SEMANTIC TAG: <nav> memberi tahu Google bahwa ini adalah menu navigasi utama -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> StartupKu</a>
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> LaperKilat </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -63,9 +63,9 @@
     <!-- SEMANTIC TAG: <header> sebagai area "Hero/Papan Reklame" utama web -->
     <header class="bg-primary text-white text-center py-5">
         <div class="container py-5">
-            <h1 class="display-4">Solusi Digital untuk Bisnis Anda</h1>
-            <p class="lead mt-3">Dibangun dengan Semantik HTML5 dan Mobile-First Design untuk performa maksimal.</p>
-            <a href="#kontak" class="btn btn-light btn-lg mt-3 fw-bold text-primary">Mulai Sekarang</a>
+            <h1 class="display-4">Solusi Lapar Tanpa Drama!</h1>
+            <p class="lead mt-3">Pesan makanan favoritmu,sampai di depan pintu sebelum rasa laparmu hilang. Cepat, Hangat, dan Nikmat!</p>
+            <a href="#kontak" class="btn btn-light btn-lg mt-3 fw-bold text-primary">Mulai Makan Enak!</a>
         </div>
     </header>
 
@@ -76,7 +76,7 @@
         <section id="produk" class="container my-5 py-4">
             <div class="text-center mb-5">
                 <h2>Layanan Kami</h2>
-                <p class="text-muted">Menggunakan Bootstrap Grid System (12 Kolom)</p>
+                <p class="text-muted">Nikmati kemudahan layanan kuliner terbaik yang kami hadirkan khusus untuk perut laparmu.</p>
             </div>
 
             <!-- BOOTSTRAP GRID (Baris) -->
@@ -89,24 +89,24 @@
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-magnifying-glass-chart fa-3x text-primary mb-3"></i>
-                        <h3>SEO Audit</h3>
-                        <p class="text-muted">Tag semantik kami memastikan Google mencintai website bisnis Anda.</p>
+                        <h3>Antar Kilat 15 Menit</h3>
+                        <p class="text-muted">Pesan sekarang, kurir kami sudah di jalan sebelum kamu selesai mencuci tangan.</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-mobile-screen-button fa-3x text-primary mb-3"></i>
-                        <h3>Mobile-First</h3>
-                        <p class="text-muted">Layout responsif yang otomatis beradaptasi dari HP hingga layar Desktop.</p>
+                        <h3>Catering Harian Sehat</h3>
+                        <p class="text-muted">Menu berganti setiap hari dari ahli gizi, cocok untuk kamu yang sibuk di kantor.</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-shield-halved fa-3x text-primary mb-3"></i>
-                        <h3>Data Security</h3>
-                        <p class="text-muted">Pengumpulan *leads* yang aman menggunakan validasi form modern.</p>
+                        <h3>Booking Resto Instan</h3>
+                        <p class="text-muted">Nggak perlu antre lagi. Meja favoritmu sudah siap saat kamu sampai di lokasi.</p>
                     </div>
                 </article>
 
@@ -119,8 +119,8 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-6">
                         <div class="text-center mb-4">
-                            <h2>Dapatkan Proposal Gratis</h2>
-                            <p class="text-muted">Praktik HTML5 Secure Form Input (Sanitasi Data)</p>
+                            <h2>Dapatkan Voucher Diskon 50%!</h2>
+                            <p class="text-muted">Masukkan data dirimu untuk mendapatkan promo eksklusif setiap minggunya.</p>
                         </div>
 
                         <!-- Form Bisnis: Akan dihubungkan ke PHP/CodeIgniter di pertemuan UAS -->
@@ -129,13 +129,13 @@
                             <div class="mb-3">
                                 <label for="namaLengkap" class="form-label fw-bold">Nama Lengkap</label>
                                 <!-- INPUT TEXT BIASA -->
-                                <input type="text" class="form-control" id="namaLengkap" placeholder="Cth: Budi Santoso" required>
+                                <input type="text" class="form-control" id="namaLengkap" placeholder="Cth: Nurwakhidah Oktaviani" required>
                             </div>
 
                             <div class="mb-3">
-                                <label for="emailBisnis" class="form-label fw-bold">Email Bisnis</label>
+                                <label for="emailBisnis" class="form-label fw-bold">Alamat Email</label>
                                 <!-- SECURE INPUT: type="email" memaksa user memakai format @domain.com -->
-                                <input type="email" class="form-control" id="emailBisnis" placeholder="budi@perusahaan.com" required>
+                                <input type="email" class="form-control" id="emailBisnis" placeholder="nurwakhidaho@cakrawala.com" required>
                                 <div class="form-text">Kami tidak akan pernah membagikan email Anda (Anti-Spam).</div>
                             </div>
 
@@ -145,7 +145,7 @@
                                 <input type="tel" class="form-control" id="nomorTelepon" placeholder="08123456789" required>
                             </div>
 
-                            <button type="submit" class="btn btn-primary w-100 fw-bold py-2">Kirim Permintaan <i class="fa-solid fa-paper-plane ms-1"></i></button>
+                            <button type="submit" class="btn btn-primary w-100 fw-bold py-2"> Pesan Kilat Sekarang! <i class="fa-solid fa-paper-plane ms-1"></i></button>
                         </form>
                     </div>
                 </div>
