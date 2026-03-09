@@ -1,3 +1,12 @@
+## Hasil Modifikasi Tugas Sesi 2 - LaperKilat
+Nama: Nurwakhidah Oktaviani
+NIM: 25120100061
+
+### Bukti Tampilan Web:
+![Tampilan Web LaperKilat](hasil_tugas.png)
+
+---
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -68,10 +77,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
----
-## Hasil Modifikasi Tugas Sesi 2 - LaperKilat
-Nama: Nurwakhidah Oktaviani
-NIM: 25120100061
-
-### Bukti Tampilan Web:
-![Tampilan Web LaperKilat](hasil_tugas.png)
