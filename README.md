@@ -3,7 +3,7 @@ Nama: Nurwakhidah Oktaviani
 NIM: 25120100061
 
 ### Bukti Tampilan Web:
-![Tampilan Web LaperKilat](hasil_tugas.png)
+![Tampilan Web LaperKilat](hasiltugas-sesi2.png)
 
 ---
 
