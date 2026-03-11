@@ -47,7 +47,7 @@
     <!-- SEMANTIC TAG: <nav> memberi tahu Google bahwa ini adalah menu navigasi utama -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> StartupKu</a>
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> Healthylife</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -63,7 +63,7 @@
     <!-- SEMANTIC TAG: <header> sebagai area "Hero/Papan Reklame" utama web -->
     <header class="bg-primary text-white text-center py-5">
         <div class="container py-5">
-            <h1 class="display-4">Solusi Digital untuk Bisnis Anda</h1>
+            <h1 class="display-4">Solusi Makanan Sehat Untuk Hidup Lebih Baik</h1>
             <p class="lead mt-3">Dibangun dengan Semantik HTML5 dan Mobile-First Design untuk performa maksimal.</p>
             <a href="#kontak" class="btn btn-light btn-lg mt-3 fw-bold text-primary">Mulai Sekarang</a>
         </div>
@@ -88,25 +88,25 @@
                 -->
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
-                        <i class="fa-solid fa-magnifying-glass-chart fa-3x text-primary mb-3"></i>
-                        <h3>SEO Audit</h3>
-                        <p class="text-muted">Tag semantik kami memastikan Google mencintai website bisnis Anda.</p>
+                        <i class="fa-solid fa-apple-whole fa-3x text-primary mb-3"></i>
+                        <h3>Salad Buah Premium</h3>
+                        <p class="text-muted">Salad buah segar dengan topping premium untuk gaya hidup sehat.</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
-                        <i class="fa-solid fa-mobile-screen-button fa-3x text-primary mb-3"></i>
-                        <h3>Mobile-First</h3>
-                        <p class="text-muted">Layout responsif yang otomatis beradaptasi dari HP hingga layar Desktop.</p>
+                        <i class="fa-solid fa-blender fa-3x text-primary mb-3"></i>
+                        <h3>Smoothie Bowl</h3>
+                        <p class="text-muted">Smoothie sehat dengan buah segar dan granola.</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
-                        <i class="fa-solid fa-shield-halved fa-3x text-primary mb-3"></i>
-                        <h3>Data Security</h3>
-                        <p class="text-muted">Pengumpulan *leads* yang aman menggunakan validasi form modern.</p>
+                        <i class="fa-solid fa-bowl-food fa-3x text-primary mb-3"></i>
+                        <h3>Catering Sehat Mingguan</h3>
+                        <p class="text-muted">Paket makanan sehat mingguan untuk diet dan gaya hidup aktif.</p>
                     </div>
                 </article>
 
