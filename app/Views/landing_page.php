@@ -47,7 +47,7 @@
     <!-- SEMANTIC TAG: <nav> memberi tahu Google bahwa ini adalah menu navigasi utama -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> StartupKu</a>
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> Fina's Startup</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -89,24 +89,24 @@
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-magnifying-glass-chart fa-3x text-primary mb-3"></i>
-                        <h3>SEO Audit</h3>
-                        <p class="text-muted">Tag semantik kami memastikan Google mencintai website bisnis Anda.</p>
+                        <h3>Branding & Design</h3>
+                        <p class="text-muted">Membantu bisnis kamu tampil lebih menarik dan profesional melalui desain visual yang konsisten dan estetik, mulai dari logo, feed Instagram, hingga materi promosi.</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-mobile-screen-button fa-3x text-primary mb-3"></i>
-                        <h3>Mobile-First</h3>
-                        <p class="text-muted">Layout responsif yang otomatis beradaptasi dari HP hingga layar Desktop.</p>
+                        <h3>Social Media Management</h3>
+                        <p class="text-muted">Mengelola akun sosial media kamu dengan strategi konten yang engaging, sesuai target audiens, dan mengikuti tren agar brand kamu lebih dikenal.</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-shield-halved fa-3x text-primary mb-3"></i>
-                        <h3>Data Security</h3>
-                        <p class="text-muted">Pengumpulan *leads* yang aman menggunakan validasi form modern.</p>
+                        <h3>Content Strategy & Copywriting</h3>
+                        <p class="text-muted">Menyusun ide konten, storytelling, dan caption yang kuat supaya pesan brand kamu lebih “ngena” dan meningkatkan interaksi audiens.</p>
                     </div>
                 </article>
 
