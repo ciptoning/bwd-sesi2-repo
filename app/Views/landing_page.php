@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Landing page MVP untuk produk bisnis digital. Dibangun dengan Bootstrap 5 dan HTML5 Semantik untuk performa SEO maksimal.">
     
-    <title>MVP Bisnis Digital | BWD Sesi 2</title>
+    <title>TOKO MAJU CILACAP | BWD Sesi 2</title>
 
     <!-- BOOTSTRAP 5 CDN: Mengimpor "Rak Etalase Dinamis" tanpa perlu menulis CSS manual -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +47,7 @@
     <!-- SEMANTIC TAG: <nav> memberi tahu Google bahwa ini adalah menu navigasi utama -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> StartupKu</a>
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> TOKO MAJU CILACAP</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -63,9 +63,9 @@
     <!-- SEMANTIC TAG: <header> sebagai area "Hero/Papan Reklame" utama web -->
     <header class="bg-primary text-white text-center py-5">
         <div class="container py-5">
-            <h1 class="display-4">Solusi Digital untuk Bisnis Anda</h1>
-            <p class="lead mt-3">Dibangun dengan Semantik HTML5 dan Mobile-First Design untuk performa maksimal.</p>
-            <a href="#kontak" class="btn btn-light btn-lg mt-3 fw-bold text-primary">Mulai Sekarang</a>
+            <h1 class="display-4">TOKO MAJU CILACAP</h1>
+            <p class="lead mt-3">PERLENGKAPAN RUMAH TANGGA & KANTOR TERLENGKAP DENGAN HARGA TERJANGKAU.</p>
+            <a href="#produk" class="btn btn-light btn-lg mt-3 fw-bold text-primary">LIHAT SEMUA PRODUK</a>
         </div>
     </header>
 
@@ -75,8 +75,8 @@
         <!-- SEMANTIC TAG: <section> membagi area web menjadi bagian-bagian logis -->
         <section id="produk" class="container my-5 py-4">
             <div class="text-center mb-5">
-                <h2>Layanan Kami</h2>
-                <p class="text-muted">Menggunakan Bootstrap Grid System (12 Kolom)</p>
+                <h2>Produk Unggulan Kami</h2>
+                <p class="text-muted">Perlengkapan Rumah Tangga & Kantor Terpercaya Di Cilacap, Tampilan Rapi di Semua Perangkat</p>
             </div>
 
             <!-- BOOTSTRAP GRID (Baris) -->
@@ -89,24 +89,24 @@
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-magnifying-glass-chart fa-3x text-primary mb-3"></i>
-                        <h3>SEO Audit</h3>
-                        <p class="text-muted">Tag semantik kami memastikan Google mencintai website bisnis Anda.</p>
+                        <h3>Peralatan Masak</h3>
+                        <p class="text-muted">Panci anti lengket, wajan tebal, dan alat makan keramik berkualitas tinggi - cocok untuk kebutuhan dapur kamu!</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-mobile-screen-button fa-3x text-primary mb-3"></i>
-                        <h3>Mobile-First</h3>
-                        <p class="text-muted">Layout responsif yang otomatis beradaptasi dari HP hingga layar Desktop.</p>
+                        <h3>Alat Tulis Kantor</h3>
+                        <p class="text-muted">Pensil mekanik, Pulpen, Buku Catatan - bantu kerja dan belajar jadi lebih efektif!</p>
                     </div>
                 </article>
 
                 <article class="col-12 col-md-4">
                     <div class="box-model-demo h-100 text-center">
                         <i class="fa-solid fa-shield-halved fa-3x text-primary mb-3"></i>
-                        <h3>Data Security</h3>
-                        <p class="text-muted">Pengumpulan *leads* yang aman menggunakan validasi form modern.</p>
+                        <h3>Elektronik Kecil</h3>
+                        <p class="text-muted">Lampu LED hemat energi, Charger, Dan kipas angin - solusi praktis untuk kebutuhan rumah!</p>
                     </div>
                 </article>
 
@@ -119,8 +119,8 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-6">
                         <div class="text-center mb-4">
-                            <h2>Dapatkan Proposal Gratis</h2>
-                            <p class="text-muted">Praktik HTML5 Secure Form Input (Sanitasi Data)</p>
+                            <h2>Kontak Toko Maju Cilacap</h2>
+                            <p class="text-muted">Ada Pertanyaan atau ingin Pemesanan? isi formulir di bawah ini ya! </p>
                         </div>
 
                         <!-- Form Bisnis: Akan dihubungkan ke PHP/CodeIgniter di pertemuan UAS -->
@@ -157,7 +157,7 @@
     <!-- SEMANTIC TAG: <footer> area penutup yang memberitahu bot ini adalah akhir dokumen -->
     <footer class="bg-dark text-light text-center py-4">
         <div class="container">
-            <p class="mb-0">&copy; 2026 Cakrawala Digital Business. <strong>BWD04 - Sesi 2</strong>.</p>
+            <p class="mb-0">&copy;Muhamad Jamali-049 2026 Cakrawala Digital Business. <strong>BWD04 - Sesi 2</strong>.</p>
         </div>
     </footer>
 
