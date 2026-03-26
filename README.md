@@ -1,6 +1,6 @@
 # CodeIgniter 4 Application Starter
 
-![Landing](img/landing.png)
+![Landing Page](img/landing.png)
 
 ## What is CodeIgniter?
 
