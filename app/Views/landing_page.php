@@ -157,7 +157,7 @@
     <!-- SEMANTIC TAG: <footer> area penutup yang memberitahu bot ini adalah akhir dokumen -->
     <footer class="bg-dark text-light text-center py-4">
         <div class="container">
-            <p class="mb-0">&copy;Muhamad Jamali-049 2026 Cakrawala Digital Business. <strong>BWD04 - Sesi 2</strong>.</p>
+            <p class="mb-0">&copy; 2026 'Cakrawala' Digital Business. <strong>BWD04 - Sesi 2</strong>.</p>
         </div>
     </footer>
 
